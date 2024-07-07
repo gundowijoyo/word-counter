@@ -18,6 +18,5 @@ ruby main.go
 
 ## Donate
 - <a href="https://saweria.co/Gundo">visit saweria me</a>
-- <a href="">Coffe me</a>
 
 @Copyright Gundo Wijoyo.Happy cuy.
