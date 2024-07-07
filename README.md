@@ -15,3 +15,9 @@ ruby main.go
  ```
 ## Contoh output 
 ![Alt Text](https://github.com/gundowijoyo/word-counter/blob/main/Screenshot_2024-07-07-22-08-35-987_com.termux.jpg)
+
+## Donate
+- <a href="https://saweria.co/Gundo">visit saweria me</a>
+- <a href="">Coffe me</a>
+
+@Copyright Gundo Wijoyo.Happy cuy.
