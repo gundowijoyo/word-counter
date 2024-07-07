@@ -11,7 +11,7 @@ cd word-counter
 
 ## Jalanlan Program
  ```bash
-ruby main.go
+ruby main.rb
  ```
 ## Contoh output 
 ![Alt Text](https://github.com/gundowijoyo/word-counter/blob/main/Screenshot_2024-07-07-22-08-35-987_com.termux.jpg)
