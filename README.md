@@ -14,4 +14,4 @@ cd word-counter
 ruby main.go
  ```
 ## Contoh output 
-<img src="https://github.com/gundowijoyo/word-counter/blob/main/Screenshot_2024-07-07-22-08-35-987_com.termux.jpg"width="50"/>
+![Alt Text](https://github.com/gundowijoyo/word-counter/blob/main/Screenshot_2024-07-07-22-08-35-987_com.termux.jpg)
