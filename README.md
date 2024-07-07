@@ -1,7 +1,7 @@
 # word-counter adalah penghitung kata berdasarkan jarak spasi dari kumpulan kata kata eaa.
 
 ## Instalasi 
-1.Pastikan anda sudah menginstal ruby melalui <a href="https://ruby.org">ruby.org</a>
+1.Pastikan anda sudah menginstal ruby melalui <a href="https://www.ruby-lang.org/en/documentation/installation/">ruby-lang.org</a>
 
 ## Clone repository 
 ```bash
